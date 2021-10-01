@@ -1,0 +1,1 @@
+#assignment @retail_pulse
